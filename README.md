@@ -25,18 +25,6 @@ Install the required libraries in the environment (this will take some time â˜•ï
 pip install transformers==4.35.2 torch==2.1.1 gradio==4.17.0 langchain==0.0.278 librosa==0.10.0 numpy==1.24.3
 \`\`\`
 
-Have a cup of coffee, it will take a few minutes:
-\`\`\`
-     )
-    ( )
-    ) (
-   ( _)
- .-'---|
-c|  o_o|
- | \_^_/|
-  \`-----'
-\`\`\`
-
 ### Step 4: Install ffmpeg
 We need to install `ffmpeg` to be able to work with audio files in Python.
 
